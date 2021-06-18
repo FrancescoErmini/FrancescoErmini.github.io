@@ -1,29 +1,34 @@
 ## Portfolio
 
----
+### Django based web portals
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+- [Forest Sharing Web Portal](https://network.forestsharing.it)
 <img src="images/forest_sharing.PNG?raw=true"/>
+- [Scrazle: Scraping API](https://scrazle.com/)
+- [Botteghe Online](http://example.com/)
+- [Curricula Web App](https://github.com/FrancescoErmini/CurriculaWebApp4)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+### Python API based projects
+
+---
+[Precision PoP](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Cadastre Query Tool](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+## Old projects
 
-### Category Name 2
+### Java projects
+- [Grapes Tracker](http://example.com/)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Arduino / C
+
+---
 
 ---
 

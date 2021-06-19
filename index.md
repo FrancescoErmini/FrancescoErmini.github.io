@@ -3,6 +3,7 @@
 ### Django based web portals
 
 - [Forest Sharing Web Portal](https://network.forestsharing.it)
+`Django`{.red}
 <img src="images/forest_sharing.PNG?raw=true"/>
 - [Scrazle: Scraping API](https://scrazle.com/)
 - [Botteghe Online](http://example.com/)

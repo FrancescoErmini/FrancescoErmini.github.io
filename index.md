@@ -6,6 +6,8 @@
 <div class="row">
   <div class="col">
              <button class="btn btn-success">Django</button>
+    <button class="btn btn-danger">Django</button>
+    <button class="btn btn-info">Django</button>
   </div>
 </div>
 <img src="images/forest_sharing.PNG?raw=true"/>

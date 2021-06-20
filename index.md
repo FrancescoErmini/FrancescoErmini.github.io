@@ -4,7 +4,7 @@
 
 - [Forest Sharing Web Portal](https://network.forestsharing.it)
 <div class="row">
-  <div class"col">
+  <div class="col">
              <button class="btn btn-success">Django</button>
   </div>
 </div>

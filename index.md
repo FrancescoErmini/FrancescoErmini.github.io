@@ -1,35 +1,34 @@
 ## Portfolio
 
-### Django based web portals
+### Scrazle (2021)
 
-- [Scrazle (2021)]
 <img src="images/scrazle.png?raw=true"/>
 
-- [Forest Sharing (2020)]
+### Forest Sharing (2020)
 <img src="images/forestsharing.png?raw=true"/>
 
-- [Precision PoP (2021)]
+### Precision PoP (2021)
 <img src="images/pop.png?raw=true"/>
 
-- [Catasto Query Tool (2019)]
+### Catasto Query Tool (2019)
 <img src="images/catastoquerytool.png?raw=true"/>
 
-- [WarnMe (2019)]
+### WarnMe (2019)
 <img src="images/warnme.png?raw=true"/>
 
-- [OpenInnovationDapps(2018)]
+### OpenInnovationDapps(2018)
 <img src="images/openinnovationdapps.png?raw=true"/>
 
-- [HackPax (2017)]
+### HackPax (2017)
 <img src="images/hackpax.png?raw=true"/>
 
-- [Vineyard register (2017)]
+### Vineyard register (2017)
 <img src="images/vineyardregister.png?raw=true"/>
 
-- [MyHome503 (2015)]
+### MyHome503 (2015)
 <img src="images/scrazle.png?raw=true"/>
 
-- [Junior Thesis (2015)]
+### Junior Thesis (2015)
 <img src="images/xbee.png?raw=true"/>
 
 ---

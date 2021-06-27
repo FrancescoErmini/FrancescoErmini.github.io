@@ -2,38 +2,35 @@
 
 ### Django based web portals
 
-- [Forest Sharing Web Portal](https://network.forestsharing.it)
-<div class="row">
-  <div class="col">
-             <button class="btn btn-success">Django</button>
-    <button class="btn btn-danger">Django</button>
-    <button class="btn btn-info">Django</button>
-  </div>
-</div>
-<img src="images/forest_sharing.PNG?raw=true"/>
-- [Scrazle: Scraping API](https://scrazle.com/)
-- [Botteghe Online](http://example.com/)
-- [Curricula Web App](https://github.com/FrancescoErmini/CurriculaWebApp4)
+- [Scrazle (2021)]
+<img src="images/scrazle.png?raw=true"/>
 
----
+- [Forest Sharing (2020)]
+<img src="images/forestsharing.png?raw=true"/>
 
-### Python API based projects
+- [Precision PoP (2021)]
+<img src="images/pop.png?raw=true"/>
 
----
-[Precision PoP](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Catasto Query Tool (2019)]
+<img src="images/catastoquerytool.png?raw=true"/>
 
----
-[Cadastre Query Tool](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [WarnMe (2019)]
+<img src="images/warnme.png?raw=true"/>
 
----
-## Old projects
+- [OpenInnovationDapps(2018)]
+<img src="images/openinnovationdapps.png?raw=true"/>
 
-### Java projects
-- [Grapes Tracker](http://example.com/)
+- [HackPax (2017)]
+<img src="images/hackpax.png?raw=true"/>
 
-### Arduino / C
+- [Vineyard register (2017)]
+<img src="images/vineyardregister.png?raw=true"/>
+
+- [MyHome503 (2015)]
+<img src="images/scrazle.png?raw=true"/>
+
+- [Junior Thesis (2015)]
+<img src="images/xbee.png?raw=true"/>
 
 ---
 

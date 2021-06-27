@@ -26,7 +26,7 @@
 <img src="images/vineyardregister.png?raw=true"/>
 
 ### MyHome503 (2015)
-<img src="images/scrazle.png?raw=true"/>
+<img src="images/myhome503.png?raw=true"/>
 
 ### Junior Thesis (2015)
 <img src="images/xbee.png?raw=true"/>

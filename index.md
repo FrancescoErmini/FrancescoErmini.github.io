@@ -2,12 +2,14 @@
 # Scrazle (2021): Modular, scalable and distributed web scraping as a service.
 ## Free time project
 <img src="images/scrazle.png?raw=true"/>
+
 #python  #javascript  #django_rest_framerwork #node.js #celery #redis #postgres #elasticsearch #json-schema #fuzzy_search #docker-ce #micro-services #puppeeter_headless_browser #xpath #css_selectors #socks5_proxy #JWT_token #OAuth2 #xls #csv #json #natural_language_toolkit #tokenization #stemming #lemmization
 ---
 
 # Forest Sharing (2020): Django web portal for forest data entries.
 ## From zero to production
 <img src="images/forestsharing.png?raw=true"/>
+### I manage the realisation of the portal (alone) end-to-end: from requirements to design,  testing, deploy and release process management maintenance.
 #Django #GeoDjango #Nginx #uwsgi #boostrap4 #ajax #jquery #Leafleat-js #django-forms #GDPR #release_management #monitoring #disaster_recovery
 ---
 

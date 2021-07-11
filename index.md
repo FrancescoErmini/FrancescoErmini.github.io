@@ -10,15 +10,15 @@
 # Forest Sharing (2020): Django web portal for forest data entries.
 ## From zero to production
 <img src="images/forestsharing.png?raw=true"/>
-### I manage the realisation of the portal (alone) end-to-end: from requirements to design,  testing, deploy and release process management.
+### I managed the realisation end-to-end of the Forest Sharing portal (Django): from requirements to design,  testing, deploy and release process management. The portal allows a user to sign-up, login and submit his forest properties (cadastral parcels). On the backend side the portal allow to manage and aggregate those properties.
 
-#Django #GeoDjango #Nginx #uwsgi #boostrap4 #ajax #jquery #Leafleat-js #django-forms #GDPR #release_management #monitoring #disaster_recovery
+#Django #GeoDjango #Nginx #uwsgi #boostrap4 #ajax #jquery #Leafleat-js #django-forms #GDPR #release_management
 ---
 
 # Precision PoP (2021): Web Gis Portal for monitoring the health of poplars.
 ## Dealing with Google Cloud API
 <img src="images/pop.png?raw=true"/>
-### I design and develop the full system; I used google earth engine python client to compute forest data on satellite imagery and javascript map library to fetch and display the results.
+### I developed one web page for poplars healty monitoring; I used google earth engine python client (gee) to compute forest data on satellite imagery every five days and a javascript map library (leaflet) to fetch and display the results.
 
 #python #javascript #spatiallite #sqlite #google_earth_engine #leafleat-js #node.js #google_cloud_api #geojson #decoupled-architecture #robustness
 ---

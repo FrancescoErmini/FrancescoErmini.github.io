@@ -66,7 +66,7 @@
 # MyHome503 (2015): DIY domotic with Arduino in my house
 ## Huge domotic installation of Arduinos in my house
 <img src="images/myhome503.png?raw=true"/>
-### I developed a burglar alarm from scratch in Arduino (c code), controlled via SMS and RFID, with call alert and siren sound. I developed a domotic system for remote light switches and irrigation control. I used the framework openhab as user's UI. 
+### I developed a burglar alarm from scratch in Arduino (c code), controlled via SMS and RFID, with call alert and siren sound. I developed a domotic system for remote light switches and irrigation control. I used the framework openhab as user's UI. I formed myself I culture on embedded devices(avr, arm), peripherals (uart,spi,i2c) and protocols (rs485,mqtt).
 #Arduino #Raspberry-Pi #IoT #MQTT #RS485 #C #node-red #openhab #PCB #gsm #sms #phone_dialer #power_meters #humidity_sensor #pir_sensors #RTC #burglar_alarm #wiring #electrician #RJ45 #hundreds_of_euros_spent #10k+_Arduino_code
 ---
 

@@ -4,7 +4,7 @@
 <img src="images/scrazle.png?raw=true"/>
 ### This is the most complex and challenging project I have worked on recently. I started this as a business idea but I ended up creating my own framework. This project lead me to learn new technology stacks:I started developing on node.js and been confident with javascript. I deal with asynchronous paradigm, distributed tasks queue, in-memory/no-sql databases, natural language processing end a decoupled frontend / backend architecture. I wrote functional tests on the backend side with py unit and documented all method with sphinx and all REST end-points with swagger UI.
 
-`#python  #javascript  #django_rest_framerwork #node.js #celery #redis #postgres #elasticsearch #json-schema #fuzzy_search #docker-ce #micro-services #puppeeter_headless_browser #xpath #css_selectors #socks5_proxy #JWT_token #OAuth2 #xls #csv #json #natural_language_toolkit #tokenization #stemming #lemmization`
+{% raw %} #python  #javascript  #django_rest_framerwork #node.js #celery #redis #postgres #elasticsearch #json-schema #fuzzy_search #docker-ce #micro-services #puppeeter_headless_browser #xpath #css_selectors #socks5_proxy #JWT_token #OAuth2 #xls #csv #json #natural_language_toolkit #tokenization #stemming #lemmization {% endraw %}
 ---
 
 # Forest Sharing (2020): Django web portal for forest data entries.

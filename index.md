@@ -4,7 +4,7 @@
 <img src="images/scrazle.png?raw=true"/>
 ### I started this project as a business idea but I ended up creating my own web scraping framework.I developed a decoupled frontend/backend architecture (django-rest, vanilla js) with a distributed tasks queue system (celery) and in-memory database (redis) for orchestrating the scraping jobs and an headless browser (puppeeter on node.js) to emulate user actions (click, search, pagination) and extract the data. All web page interactions are done both manually (via xpath, css selectors..) or automatically (thanks to a huge javascript logic that I realised). I also used the natural language toolkit and elasticsearch for products aggregation (but I replace it with the python fuzzywuzzy library).I wrote functional tests on the backend side with py-unit, documented all methods with sphinx and all REST end-points with swagger UI.
 
-### #python #javascript #django_rest_framerwork #node.js #celery #redis #postgres #elasticsearch #json-schema #fuzzy_search #docker-ce #micro-services #puppeeter_headless_browser #xpath #css_selectors #socks5_proxy #JWT_token #OAuth2 #xls #csv #json #natural_language_toolkit #tokenization #stemming #lemmization
+#python #javascript #django_rest_framerwork #node.js #celery #redis #postgres #elasticsearch #json-schema #fuzzy_search #docker-ce #micro-services #puppeeter_headless_browser #xpath #css_selectors #socks5_proxy #JWT_token #OAuth2 #xls #csv #json #natural_language_toolkit #tokenization #stemming #lemmization
 ---
 
 # Forest Sharing (2020): Django web portal for forest data entries.
@@ -66,7 +66,7 @@
 # MyHome503 (2015): DIY domotic with Arduino in my house
 ## Huge domotic installation of Arduinos in my house
 <img src="images/myhome503.png?raw=true"/>
-
+### I developed a burglar alarm from scratch in Arduino (c code), controlled via SMS and RFID, with call alert and siren sound. I developed a domotic system for remote light switches and irrigation control. I used the framework openhab as user's UI. 
 #Arduino #Raspberry-Pi #IoT #MQTT #RS485 #C #node-red #openhab #PCB #gsm #sms #phone_dialer #power_meters #humidity_sensor #pir_sensors #RTC #burglar_alarm #wiring #electrician #RJ45 #hundreds_of_euros_spent #10k+_Arduino_code
 ---
 

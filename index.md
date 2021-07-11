@@ -9,25 +9,28 @@
 # Forest Sharing (2020): Django web portal for forest data entries.
 ## From zero to production
 <img src="images/forestsharing.png?raw=true"/>
-### I manage the realisation of the portal (alone) end-to-end: from requirements to design,  testing, deploy and release process management maintenance.
+### I manage the realisation of the portal (alone) end-to-end: from requirements to design,  testing, deploy and release process management.
 #Django #GeoDjango #Nginx #uwsgi #boostrap4 #ajax #jquery #Leafleat-js #django-forms #GDPR #release_management #monitoring #disaster_recovery
 ---
 
 # Precision PoP (2021): Web Gis Portal for monitoring the health of poplars.
 ## Dealing with Google Cloud API
 <img src="images/pop.png?raw=true"/>
+### I design and develop the full system; I used google earth engine python client to compute forest data on satellite imagery and javascript map library to fetch and display the results.
 #python #javascript #spatiallite #sqlite #google_earth_engine #leafleat-js #node.js #google_cloud_api #geojson #decoupled-architecture #robustness
 ---
 
 # Catasto Query Tool (2019): Reverse all cadastral parcels data from Italy cadastre WMS service.
 ## Genius “Hack” algorithm to solve lack of data entries.
 <img src="images/catastoquerytool.png?raw=true"/>
+### I ideate and develop a tool to solve a lack of data entries. The tool queries the italian cadastre register on all coordinate points obtained on a grid of million of points and retrieve both the parcel identifier and the geometry shape for the parcel found in that point. The tool is written in python and use multiprocessing/multithreading to speed up the algorithm.
 #python #postgres #postgis #numpy #opencv #multi-threading #wms #gis #big-data #brute-forcing #hack #problem-solving #iamgenious
 ---
 
 # WarnMe (2019):  Road curvature alert system for bikers
 ## First Android App development
 <img src="images/warnme.png?raw=true"/>
+### I made a prototype of an  android application and a bluetooth device used to alert a biker for upcoming curvature level / hairpin turn. The curvature computation is done via python scripts using the open street map API on a well known route. The Android App uses GPS/Android location services to track user position and generate an alert when the biker is approaching the curve.
 #java #android #python #arduino #open-streep-map #ESP32 #bluetooth #GPS 
 ---
 

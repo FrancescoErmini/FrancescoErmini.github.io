@@ -4,7 +4,7 @@
 <img src="images/scrazle.png?raw=true"/>
 ### I started this project as a business idea but I ended up creating my own framework. This project lead me to learn new technology stacks:I started developing on node.js and javascript. I dealed with asynchronous paradigm (puppeeter), distributed tasks queue (celery), in-memory/no-sql databases (redis, elasticsearch), natural language processing (nltk) end a decoupled frontend / backend architecture (django-rest). I wrote functional tests on the backend side with py unit and documented all method with sphinx and all REST end-points with swagger UI.
 
-### #python #javascript #django_rest_framerwork #node.js #celery #redis #postgres #elasticsearch #json-schema #fuzzy_search #docker-ce #micro-services #puppeeter_headless_browser #xpath #css_selectors #socks5_proxy #JWT_token #OAuth2 #xls #csv #json #natural_language_toolkit #tokenization #stemming #lemmization {% endraw %}
+### #python #javascript #django_rest_framerwork #node.js #celery #redis #postgres #elasticsearch #json-schema #fuzzy_search #docker-ce #micro-services #puppeeter_headless_browser #xpath #css_selectors #socks5_proxy #JWT_token #OAuth2 #xls #csv #json #natural_language_toolkit #tokenization #stemming #lemmization
 ---
 
 # Forest Sharing (2020): Django web portal for forest data entries.

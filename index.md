@@ -24,7 +24,7 @@
 ## Genius “Hack” algorithm to solve lack of data entries.
 <img src="images/catastoquerytool.png?raw=true"/>
 ### I ideate and develop a tool to solve a lack of data entries. The tool queries the italian cadastre register on all coordinate points obtained on a grid of million of points and retrieve both the parcel identifier and the geometry shape for the parcel found in that point. The tool is written in python and use multiprocessing/multithreading to speed up the algorithm.
-#python #postgres #postgis #numpy #opencv #multi-threading #wms #gis #big-data #brute-forcing #hack #problem-solving #iamgenious
+#python #postgres #postgis #numpy #opencv #multi-threading #wms #gis #big-data #brute-forcing #hack #problem-solving #(sometime)iamgenious
 ---
 
 # WarnMe (2019):  Road curvature alert system for bikers
@@ -37,6 +37,8 @@
 # OpenInnovationDapps (2018): Ethereum smart contract + web portal for a pay to access resources demo.
 ## Blockchain development
 <img src="images/openinnovationdapps.png?raw=true"/>
+### I made a prototype of a “crowdfund” portal where the project is funded by crypto currencies (Ethereum) gathered  with user participation to the project and all transaction are recorded on the Ethereum blockchain as “smart contract”.
+
 #solidity #javascritp #web3-js #Ethereum #blockchain #smart-contrac #ganache #cryptokittieslovers
 ---
 

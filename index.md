@@ -51,8 +51,8 @@
 
 # Vineyard register (2017): vineyard digital register
 ## Model view controller with Martin Fowler Patterns on Java (Java EE/JPA/Hibernate/Wildfly)
-
 <img src="images/vineyardregister.png?raw=true"/>
+### This is the project I made for the software architecture class. The idea of a vineyard register born speaking with a friend who work as winemaker for a small wine factory. The challenge was to create an quick data entries web page  as replacement of the current workflow made of  the papers and excel.
 #Java-EE #JPA #Hibernate #JBoss #Wildfly #accountability-pattern
 ---
 

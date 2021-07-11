@@ -45,6 +45,7 @@
 # HackPax (2017): Cyber security alert / training system for employee.
 ## Winner project for course on startup creation
 <img src="images/hackpax.png?raw=true"/>
+### I attended a 4-month course for the creation of startups. The course had frontal lessons of lean startup that were put into practice by the realization of one's own business project; My project was named ‘Hack Pax’ and won the first prize at the final judgment.
 #lean-startup #elevetor-pith #public-speaking #story-telling #minimum_viable_product #wow_effect #cyber-security #2017-ransomware-attacks #wannacry #zero-day #human-factor
 ---
 

@@ -9,6 +9,10 @@ This is a personal project but, since the tecnology stack used is a relevant par
 {% endraw %}
 ---
 
+---------------------------------------------------------
+# BLUEBILOBA SRL START-UP INNOVATIVA 
+---------------------------------------------------------
+
 # Precision PoP (2021)
 <img src="images/pop.png?raw=true"/>
 ##  Web Gis Portal for monitoring the health of poplars.
@@ -38,6 +42,13 @@ I ideate and develop an algorithm/tool to solve a lack of data entries. The tool
 #python #postgres #postgis #numpy #opencv #multi-threading #wms #gis #big-data #brute-forcing #hack #problem-solving #(sometime)iamgenious
 {% endraw %}
 ---
+---------------------------------------------------------
+# GILBARCO VEEDER ROOT
+---------------------------------------------------------
+
+---------------------------------------------------------
+# OTHER PERSONAL PROJECTS AND ACHIVEMENTS
+---------------------------------------------------------
 
 # WarnMe (2019)
 <img src="images/warnme.png?raw=true"/>

@@ -7,7 +7,7 @@ This is a personal project but, since the tecnology stack used is a relevant par
 {% raw %} 
 #python #javascript #django_rest_framerwork #node.js #celery #redis #postgres #elasticsearch #json-schema #fuzzy_search #docker-ce #micro-services #puppeeter_headless_browser #xpath #css_selectors #socks5_proxy #JWT_token #OAuth2 #xls #csv #json #natural_language_toolkit #tokenization #stemming #lemmization
 {% endraw %}
----
+
 
 ---------------------------------------------------------
 # BLUEBILOBA SRL START-UP INNOVATIVA 
@@ -41,11 +41,18 @@ I ideate and develop an algorithm/tool to solve a lack of data entries. The tool
 {% raw %} 
 #python #postgres #postgis #numpy #opencv #multi-threading #wms #gis #big-data #brute-forcing #hack #problem-solving #(sometime)iamgenious
 {% endraw %}
----
+
 ---------------------------------------------------------
 # GILBARCO VEEDER ROOT
 ---------------------------------------------------------
+# Automation Testing Engineer (2019)
+<img src="images/gilbarco.png?raw=true"/>
+## Daily job as automation testing engineer.
+I was in charge of creating automated tests for in-sprint stories working closely with developers and QA. My daily job required to develop all necessary libraries/software simulators/framework enhancements needed for the scope; I was in a team of ten; we used the Scrum/BML approach. Developemnt base was 80% python, 20% robot framework,
 
+{% raw %} 
+#python #postgres #postgis #numpy #opencv #multi-threading #wms #gis #big-data #brute-forcing #hack #problem-solving #(sometime)iamgenious
+{% endraw %}
 ---------------------------------------------------------
 # OTHER PERSONAL PROJECTS AND ACHIVEMENTS
 ---------------------------------------------------------

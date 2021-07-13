@@ -20,7 +20,7 @@ This is a personal project but, since the tecnology stack used is a relevant par
 <img src="images/pop.png?raw=true"/>
 ### I developed one web page for poplars healty monitoring; I used google earth engine python client (gee) to compute forest data on satellite imagery every five days and a javascript map library (leaflet) to fetch and display the results.
 
-#python #javascript #spatiallite #sqlite #google_earth_engine #leafleat-js #node.js #google_cloud_api #geojson #decoupled-architecture #robustness
+*** #python #javascript #spatiallite #sqlite #google_earth_engine #leafleat-js #node.js #google_cloud_api #geojson #decoupled-architecture #robustness ***
 ---
 
 # Catasto Query Tool (2019): Reverse all cadastral parcels data from Italy cadastre WMS service.

@@ -51,7 +51,7 @@ I ideate and develop an algorithm/tool to solve a lack of data entries. The tool
 I was in charge of creating automated tests for in-sprint stories working closely with developers and QA. My daily job required to develop all necessary libraries/software simulators/framework enhancements needed for the scope; I was in a team of ten; we used the Scrum/BML approach. Developemnt base was 80% python, 20% robot framework,
 
 {% raw %} 
-#python #postgres #postgis #numpy #opencv #multi-threading #wms #gis #big-data #brute-forcing #hack #problem-solving #(sometime)iamgenious
+#python #robot-framework #cict #selenium #dbus #scrum #prti #agile #scrum 
 {% endraw %}
 ---------------------------------------------------------
 # OTHER PERSONAL PROJECTS AND ACHIVEMENTS
